@@ -1,0 +1,19 @@
+.InfoBox{
+      display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left:600px;
+  
+}
+/* .Card{
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 250px;
+  margin-top: 300px;
+} */
+ .Weather{
+    text-align: center;
+ }
