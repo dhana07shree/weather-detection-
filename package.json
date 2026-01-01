@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dhana07shree.github.io/mini-project-react",
+  "homepage": "https://github.com/dhana07shree/weather-detection-",
 
   "scripts": {
     "dev": "vite",
